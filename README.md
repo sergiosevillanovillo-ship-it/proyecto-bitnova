@@ -3,7 +3,11 @@
 
 
 ## 01-organizacion
-Integrantes, roles, Trello y planificación.
+Integrantes:Sergio Sevilla: Líder 
+            Miguel Ángel: Diseñador
+            Samuel Daza: Investigador
+            Vicente: Presentador
+Trello y planificación.
 
 ## 02-descripcion-proyecto
 Descripción de la empresa o proyecto.
