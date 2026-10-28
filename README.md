@@ -1,14 +1,5 @@
 # Proyecto-bitnova
 
-    01-organizacion
-    02-descripcion-proyecto
-    03-estudio-mercado
-    04-requisitos
-    05-infraestructura
-    06-base-datos
-    07-documentacion
-    08-presentacion
-    recursos
 
 
 ## 01-organizacion
